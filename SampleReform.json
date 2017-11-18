@@ -1,0 +1,34 @@
+// Title: Sample Reform
+// Reform_File_Author: Anderson Frailey
+// Reform_Description:
+// - Phase out state and local and real estate tax deductions
+// - Increase the standard deduction
+// - Reduce the top tax rate to 35%
+// - Reform_Parameter_Map:
+// - 1: _ID_StateLocalTax_hc
+// - 2: _ID_RealEstate_hc
+// - 3: _STD
+// - 4: _II_rt7
+
+{
+  "policy": {
+        "_ID_StateLocalTax_hc":
+             {"2018": [0.25],
+              "2019": [0.50],
+              "2020": [0.75],
+              "2021": [1.0]},
+        "_ID_RealEstate_hc":
+             {"2018": [0.25],
+             "2019": [0.50],
+             "2020": [0.75],
+             "2021": [1.0]},
+        "_STD":
+             {"2018": [[12000, 24000, 12000, 18000, 24000]]},
+        "_II_rt1":
+             {"2018": [0.12]},
+        "_II_rt2":
+             {"2018": [0.12]},
+        "_II_rt7":
+             {"2018": [0.35]}
+    }
+}

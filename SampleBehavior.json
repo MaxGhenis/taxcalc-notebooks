@@ -1,0 +1,10 @@
+{
+  "behavior": {
+        "_BE_inc": {"2018": [-0.25]}
+    },
+  "consumption": {
+        "_MPC_e19800": {"2018": [0.2]}
+    },
+  "growdiff_response":{},
+  "growdiff_baseline": {}
+}
