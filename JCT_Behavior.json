@@ -1,8 +1,3 @@
-// From Matt Jensen.
-// "Note that you can capture the chained CPI indexing by adding a growdiff_
-// response to your behavioral json like so."
-// "Which I believe are roughly in line w what JCT does plus the
-// growdiff_response to capture the chained CPI reform."
 {
   "behavior": {
         "_BE_inc": {"2018": [-0.25]}
