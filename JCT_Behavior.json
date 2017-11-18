@@ -1,0 +1,12 @@
+{
+  "behavior": {
+        "_BE_sub": {"2018": [0.25]},
+        "_BE_cg": {"2018": [-3.49]}
+    },
+  "consumption": {
+    },
+  "growdiff_response": { 
+  "_ACPIU": {"2017": [-0.0025]}
+  },
+  "growdiff_baseline": {}
+}
