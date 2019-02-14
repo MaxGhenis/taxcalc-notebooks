@@ -10,7 +10,7 @@ Welcome to taxcalc-notebooks's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   recipe00.rst
+   recipe00
 
 
 Indices and tables
